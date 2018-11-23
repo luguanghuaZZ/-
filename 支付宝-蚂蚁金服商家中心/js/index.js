@@ -9,11 +9,13 @@ $(function () {
     }).click(function () {
         $(this).addClass('special').siblings().removeClass('special')
     });
+
     $('.header-menu').hover(function () {
         $('.header-menu').show()
     },function () {
         $('.header-menu').hide()
     });
+
     $('.header-left li').click(function(){
         $(this).addClass('selected').siblings().removeClass('selected');
         if($(this).text().indexOf('商业消费')>-1){
