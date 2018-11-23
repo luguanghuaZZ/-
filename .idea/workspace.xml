@@ -2,62 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04a0b742-8d0a-4e62-abb4-75e9233a4655" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/aixin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/bao.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/baogao.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/baozhang.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/bottom-erweima.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/chabei.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/dianji.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/diqiu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/diqiu2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/diqiuyipng.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/fengche.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/five.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/five1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/four.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/four1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/fukuanma.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/fukuanma_看图王.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/index-text.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/list.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/money.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/next.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/one-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/one-bg1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/one-bg2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/one-by1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/one-by2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/one-by3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/one-by4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/play_看图王.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/poster.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/sao.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/three-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/three.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/top-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/two-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/two-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/two-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/two-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/xinhao.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/xuebi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/yaoping.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/yiyuan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/zheng.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/zhineng.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/zzfk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/地图找房_交叉.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery-3.3.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/store.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/zfb-js.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/index.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -101,28 +46,39 @@
     <session id="471310585">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="gitignore" value="1" />
+          <entry key="gitignore" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="gitignore" value="13" />
+          <entry key="gitignore" value="19" />
+          <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="PLAIN_TEXT" value="21" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -196,13 +152,22 @@
       <updated>1542955480783</updated>
       <workItem from="1542955482076" duration="256000" />
     </task>
+    <task id="LOCAL-00001" summary="上线">
+      <created>1542958869708</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1542958869708</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="359000" />
+    <option name="totallyTimeSpent" value="592000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -228,6 +193,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="上线" />
+    <option name="LAST_COMMIT_MESSAGE" value="上线" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
