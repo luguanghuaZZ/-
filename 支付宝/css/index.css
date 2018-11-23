@@ -71,6 +71,7 @@ a {
 .header .nav .enter .status {
     color: #bfbfbf;
     right: 10px;
+    font-size: 12px;
 }
 
 .header .nav .enter a {
@@ -236,6 +237,7 @@ a {
 
 .middle .nav .mid_nav .title_business  .two_business .business2{
     position: absolute;
+    color: #fff;
     height: 49px;
     text-align: center;
     line-height: 50px;
@@ -259,7 +261,7 @@ a {
     right: 30px;
 }
 .middle .nav .mid_nav .title_business  .two_business  .business3 {
-
+color: #fff;
     position: absolute;
     height: 50px;
     text-align: center;
@@ -366,8 +368,9 @@ a {
 .bottom .btm_base {
     width: 250px;
     height: 30px;
-    margin: 3px auto;
+    /*margin: 3px auto;*/
     text-align: center;
+    margin-left: 40%;
 }
 
 .bottom .btm_base a {
