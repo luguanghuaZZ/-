@@ -14,7 +14,7 @@ $(function () {
     }, false);
     //点击播放按钮播放播放视频和隐藏按钮
     $('.play').click(function () {
-        md.play()
+        md.play();
         $(this).css('display', 'none')
     })
 
@@ -120,7 +120,7 @@ $(function () {
         currIndex++;
         iif();
         ani();
-    })
+    });
     //右侧小圆点切换页面
     $('.list ul li').click(function () {
         if (flag) return;
@@ -128,7 +128,7 @@ $(function () {
         currIndex = $(this).index();
         iif();
         ani();
-    })
+    });
     //键盘按下事件
     $(document).keydown(function dd(event) {
         //下

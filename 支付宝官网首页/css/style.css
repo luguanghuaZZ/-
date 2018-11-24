@@ -159,7 +159,7 @@ html,body {
 .b-top .kefu .customer:hover .hov{
     display: block;
 }
-.b-top .kefu .customer:hover li{
+.b-top .kefu .hov li:hover {
     color: #15BFED;
 }
 .b-top .kefu .customer:hover .down-i{
@@ -198,6 +198,13 @@ html,body {
     padding: 0 30px;
     font-weight: 500;
 }
+.w-top #money>li a {
+    color: #333;
+    display: block !important;
+}
+.w-top #money>li a:hover{
+    color: #0be;
+}
 .downList{
     position: absolute;
     left: 0;
@@ -226,6 +233,15 @@ html,body {
     font-size: 14px;
     line-height: 28px;
     color: #1e1b29;
+}
+.downList ul li a {
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    color: #000;
+}
+.downList ul li a:hover{
+    color: #fff;
 }
 .downList ul li:hover{
     background-color: #0be;

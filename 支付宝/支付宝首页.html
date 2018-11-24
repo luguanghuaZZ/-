@@ -38,7 +38,7 @@
                         <span class="title business3">我是口碑商家</span>
                         </div>
                     </a>
-                    <a href="javascript:;" class="title_private  clearfix">
+                    <a href="../支付宝官网首页/index.html" class="title_private  clearfix">
                         <span class="title titles  pri">我是个人用户</span>
                     </a>
                 </div>
@@ -97,11 +97,18 @@
         var title_business=$(".title_business");
      //   支付宝商家
      var   business2= $(".business2");
+     var   business1= $(".titles");
      var two_business=$(".two_business");
      var business3=$(".business3");
         //span 口碑商家 点击事件 页面跳转
         business3.click(function () {
-$(window.location).prop('href','口碑商家.html');
+        $(window.location).prop('href','口碑商家.html');
+        });
+        business2.click(function () {
+            $(window.location).prop('href','../支付宝-蚂蚁金服商家中心/index.html');
+        });
+        business1.click(function () {
+            $(window.location).prop('href','../蚂蚁金服开放平台/蚂蚁金服开放平台.html');
         });
         //   支付宝商家
         // business2.click(function () {
